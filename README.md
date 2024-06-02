@@ -9,4 +9,4 @@ Este reto fue desarrollado por:
 
 ## Link de los videos
 - Link primer video (Segunda Entrega): https://youtu.be/zOJtwwNS7Sk
-- Link segundo video (Entrega Final):  
+- Link segundo video (Entrega Final):  https://youtu.be/Bn5XtwnAYno
